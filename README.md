@@ -7,3 +7,4 @@ A website dedicated to the Professional Indian Players
   <li>CSS</li>
 </ul>
 <h2>Creator:<i>Debajit Pramanick</i></h2>
+link:- https://technodeba.github.io/Indian_Cricketer/
